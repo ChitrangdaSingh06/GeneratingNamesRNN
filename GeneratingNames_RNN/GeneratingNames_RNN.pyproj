@@ -22,11 +22,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="LoadData.py" />
+    <Compile Include="Data.py" />
     <Compile Include="Main.py" />
+    <Compile Include="NetwrokTraining.py" />
     <Compile Include="RNN.py" />
     <Compile Include="Sampling.py" />
-    <Compile Include="Training.py" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
